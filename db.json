@@ -3,7 +3,6 @@
         {
             "id" : 1,
             "images" : {
-                // "main" : "https://www.pexels.com/photo/person-in-purple-crew-neck-t-shirt-with-just-me-painting-on-hand-52986/",
                 "main" : "https://www.pexels.com/photo/person-in-purple-crew-neck-t-shirt-with-just-me-painting-on-hand-52986/",
                 "secMain" : "https://www.pexels.com/photo/photo-of-toddler-smiling-1912868/",
                 "thirdMain" : "https://www.pexels.com/photo/photo-of-a-boy-reading-book-1250722/"
@@ -16,7 +15,6 @@
             "id" : 2,
             "images" : {
                 "main" : "img/science-page.jpg",
-                // "main" : "https://www.pexels.com/photo/man-woman-girl-writing-8923370/",
                 "secMain" : "https://www.pexels.com/photo/sky-man-people-woman-7105846/",
                 "thirdMain" : "https://www.pexels.com/photo/a-child-holding-a-skeleton-model-8471852/"
             },
