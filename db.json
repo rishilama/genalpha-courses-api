@@ -1,0 +1,81 @@
+{
+    "courses" : [
+        {
+            "id" : 0,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/person-in-purple-crew-neck-t-shirt-with-just-me-painting-on-hand-52986/",
+                "secMain" : "https://www.pexels.com/photo/photo-of-toddler-smiling-1912868/",
+                "thirdMain" : "https://www.pexels.com/photo/photo-of-a-boy-reading-book-1250722/"
+            },
+            "pageHead" : "Kindergarten",
+            "sectionHead" : "About Kindergarten",
+            "para" : "A kindergarten teacher is responsible for integrating young children into the world of learning by teaching them social skills, personal hygiene, basic reading skills, art and music.\n\nLetters\n\nIdentifying letters and writing the alphabet.\n\n\nSounds & Phonics\n\nUsing letters to make sounds and words.\n\n\nWords / Vocabulary\n\nRecognizing sight words and building vocabulary.\n\n\nReading Comprehension\n\nShort stories with Q&A and other comprehension exercises.\n\n\nEarly Writing\n\nSentences, capital letters, punctuation & writing prompts.\n\n\nShapes\n\nIdentifying and drawing the basic shapes.\n\n\nColors\n\nRecognizing basic colors.\n\n\nNumbers\n\nRecognizing numbers and counting.\n\n\nSimple Math\n\nLearning simple math concepts.\n\n\nScience\n\nPlants, animals, weather, energy, the environment and more."
+        },
+        {
+            "id" : 1,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/man-woman-girl-writing-8923370/",
+                "secMain" : "https://www.pexels.com/photo/sky-man-people-woman-7105846/",
+                "thirdMain" : "https://www.pexels.com/photo/a-child-holding-a-skeleton-model-8471852/"
+            },
+            "pageHead" : "Science",
+            "sectionHead" : "About Science",
+            "para" : "Through science, your child will be encouraged to develop their curiosity and make observations and as they are introduced to science, your child will begin to develop organized and analytical thinking as well as problem-solving skills. Your child will develop an understanding of four areas: physical sciences; life sciences; earth and space sciences\n\n\nPhysical Sciences\n\nThe physical sciences involve the study of the physical world. This includes chemistry, physics, and astronomy. Sometimes the Earth sciences are included in physical sciences since they are part of the physical world.\n\n\nEarth and Space Sciences\n\nThe Earth sciences involve the study of everything relating to the Earth, except for living things. These sciences include mainly geology and meteorology and sometimes geography. As they learn about the earth, children will learn about the characteristics of the earth's environments (mountains, rivers, oceans, valleys, and deserts) and the four seasons. They'll study the weather, daytime, nighttime, the different phases of the moon, and resources and conservation.\n\n\nLife Sciences\n\nThe life sciences are the study of living things. That includes biology, botany, zoology, and ecology, among others. As part of their study of the life sciences, children will learn the basic structures of common plants and animals (arms, legs, wings, leaves, stems, roots, etc.). They also may learn about the differences and similarities in plants and animals. Life science also allows kids to explore how living things adapt to their environment, grow, change and have certain needs. They may even explore how living things and non-living things differ or how they impact one another."
+        },
+        {
+            "id" : 2,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/text-on-shelf-256417/",
+                "secMain" : "https://www.pexels.com/photo/books-placed-on-shelf-with-potted-plants-5792852/",
+                "thirdMain" : "https://www.pexels.com/photo/yellow-tassel-159581/"
+            },
+            "pageHead" : "English",
+            "sectionHead" : "About English",
+            "para" : "In today’s globalised world there are many reasons to learn a foreign language, and many benefits to studying English specifically.\n\nCurrently, there are around 1.5 billion English speakers around the world, which represents a fifth of the world’s total population. English is spoken in some of the most economically and culturally influential countries globally, and over the centuries has become the main language not only of international communication, but of international business, academia, medicine, science, technology and law.\n\nWhen you consider this, it’s no wonder that so many people select to learn English as a way to enhance their life and the opportunities available to them, as well as exercise their brain!"
+        },
+        {
+            "id" : 3,
+            "images" : {
+                "main" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hindi.svg/768px-Hindi.svg.png",
+                "secMain" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202205/hindi-g89b646eb0_1280_1200x768.png?IPTHWDnjtf8FbTvODVHkGlf6Iwn1kEun&size=770:433",
+                "thirdMain" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/upfront-9-gc-sep11_647_083117080219.jpg?size=770:433"
+            },
+            "pageHead" : "Hindi",
+            "sectionHead" : "About Hindi",
+            "para" : "The Hindi language is spoken by more than 260 million people across the world as a native language. In addition to this, around 120 million people use Hindi as a second language. Due to this vast number of speakers across the world, Hindi is the fourth most spoken language in the world after English, Chinese and Spanish. So, you know if you learn Hindi you will have plenty of people to interact with in different parts of the country and also the world. Besides, Hindi is the most common language spoken across India. This makes it one of the most important languages of South East Asia.\n\nHindi is very prevalent in South-East Asia. Learning a new language has many benefits in all aspects of life. Be it a student, a professional or even a retired person, knowledge of multiple languages always help. It broadens your travel and culture horizons. Well, this is just one advantage. Keep this in mind, you may want to know the importance of learning Hindi. So, without any more time, let us quickly check the importance of learning Hindi."
+        },
+        {
+            "id" : 4,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/red-background-with-123456789-text-overlay-1329296/",
+                "secMain" : "https://www.pexels.com/photo/person-drawing-line-2097/",
+                "thirdMain" : "https://www.pexels.com/photo/black-calculator-near-ballpoint-pen-on-white-printed-paper-53621/"
+            },
+            "pageHead" : "Mathenatics",
+            "sectionHead" : "About Mathenatics",
+            "para" : "Mathematics is very useful in everyday life. We use math concepts, as well as the skills we learn from practicing math problems every day.\n\n\nMathematics gives us a way to understand patterns, define relationships, and predict the future. It helps us do many important things in our daily lives.\n\nAccording to some people, maths is just the use of complicated formulas and calculations which won’t be ever applied in real life. But, maths is the universal language which is applied in almost every aspect of life. Yes! You read it right; basic mathematical concepts are followed all the time. You would be amazed to see the emerging of maths from unexpected situations.\n\n\nMath is very useful in everyday life. Math can help us do many things that are important in our everyday lives. Here are some daily tasks for which math is important:\n\nManaging time: Keeping a track of time is very important to do all you love to do.\n\nBudgeting: Managing money, understanding discounts, and buying for the best price\n\nSports: Score, Time, Strategizing to win\n\nCooking: Measuring the ingredients to add to a recipe, kitchen inventory planning\n\nExercising and Dieting\n\nDriving: Distance traveled, the shortest route to take to reach a destination\n\nHome Decorating\n\nStitching: Measurements to stitch a dress\n\nCritical Thinking\n\nThe base of other Subjects."
+        },
+        {
+            "id" : 5,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/used-pen-lot-on-paper-89625/",
+                "secMain" : "https://www.pexels.com/photo/girls-painting-on-a-paper-7025560/",
+                "thirdMain" : "https://www.pexels.com/photo/a-person-painting-on-a-canvas-7302140/"
+            },
+            "pageHead" : "Drawing",
+            "sectionHead" : "About Drawing",
+            "para" : "Children are naturally creative on their own accord. But if their creativity isn’t fostered, they begin to lose it as they grow into adults. Pablo Picasso famously said, “Every child is an artist. The problem is how to remain an artist once we grow up.” \n\nOne of the best ways to encourage a lifelong love of the arts is to enroll your kids in art classes. \n\nOR\n\nOne of the most basic benefits of art classes, particularly for toddlers, is the improvement of fine and gross motor skills. Because there are so many different types of art – from painting to sculpture to drawing – a variety of tools and techniques are required. For many small children, the struggle is real when it comes to using and developing their tiny muscles to hold and use objects correctly. Art classes teach children how to properly hold a paintbrush, pencils or markers and build hand muscles while playing with clay. Older students will benefit by learning proper painting or drawing techniques, and even build muscle when learning to create more physically-demanding forms of art like sculptures."
+        },
+        {
+            "id" : 6,
+            "images" : {
+                "main" : "https://www.pexels.com/photo/man-people-art-festival-8566097/",
+                "secMain" : "https://www.pexels.com/photo/ballerina-dancing-in-spacious-studio-with-barre-5149614/",
+                "thirdMain" : "https://www.pexels.com/photo/beautiful-indian-woman-in-red-traditional-dress-dancing-6164376/"
+            },
+            "pageHead" : "Dance",
+            "sectionHead" : "About Dance",
+            "para" : "BOLLYWOOD DANCE\n\nBollywood dancing is a colourful, dynamic and highly theatrical dance style seen in Indian films. It combines classical forms of dance including traditional Indian, folk, salsa, belly-dance while also incorporating more contemporary western forms such as hip hop, jazz and funk.\n\nBollywood dance has been an old favourite for those who want to have a good time as they workout.\n\n\nLearn Bollywood Dance with Expert\n\n\nCLASsicaL DANCE\n\nMost of the classical dance forms originated in temples. Worshipping was the main aim. Although every dance form evolved from different regions, their roots are the same. The roots can be traced from the Sanskrit text – ‘Natya Shastra’. \n\nUnlike folk dances, classical dances are all about technicalities and strict rules. Acharya Nandikeshawara’s ‘Abhinaya Darpan’ and Sharangdev’s ‘Sangeeth Ratnakar’ (Nartanadhyaya), along with the Natya \n\nShastra forms the foundation of technicalities of all the classical dance forms (which includes their body movements, rasa, bhava etc)."
+        }
+    ]
+}
