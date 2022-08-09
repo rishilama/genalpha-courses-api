@@ -14,9 +14,9 @@
         {
             "id" : 2,
             "images" : {
-                "main" : "https://www.pexels.com/photo/man-woman-girl-writing-8923370/",
-                "secMain" : "https://www.pexels.com/photo/sky-man-people-woman-7105846/",
-                "thirdMain" : "https://www.pexels.com/photo/a-child-holding-a-skeleton-model-8471852/"
+                "main" : "https://images.pexels.com/photos/8923370/pexels-photo-8923370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "secMain" : "https://images.pexels.com/photos/7105846/pexels-photo-7105846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "thirdMain" : "https://images.pexels.com/photos/8471852/pexels-photo-8471852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             },
             "pageHead" : "Science",
             "sectionHead" : "About Science",
