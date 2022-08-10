@@ -70,7 +70,9 @@
             "sectionHead" : "About Hindi",
             "para" : [
                 "The Hindi language is spoken by more than 260 million people across the world as a native language. In addition to this, around 120 million people use Hindi as a second language. Due to this vast number of speakers across the world, Hindi is the fourth most spoken language in the world after English, Chinese and Spanish. So, you know if you learn Hindi you will have plenty of people to interact with in different parts of the country and also the world. Besides, Hindi is the most common language spoken across India. This makes it one of the most important languages of South East Asia.",
-                "Hindi is very prevalent in South-East Asia. Learning a new language has many benefits in all aspects of life. Be it a student, a professional or even a retired person, knowledge of multiple languages always help. It broadens your travel and culture horizons. Well, this is just one advantage. Keep this in mind, you may want to know the importance of learning Hindi. So, without any more time, let us quickly check the importance of learning Hindi."
+                "Hindi is very prevalent in South-East Asia. Learning a new language has many benefits in all aspects of life. Be it a student, a professional or even a retired person, knowledge of multiple languages always help. It broadens your travel and culture horizons. Well, this is just one advantage. Keep this in mind, you may want to know the importance of learning Hindi. So, without any more time, let us quickly check the importance of learning Hindi.",
+                "India is a booming economy and every country is expanding trade in India. Many companies are also finding a home to their offices in India. As such, anyone who is looking to do business in India would perform well by adding Hindi to their repertoire. As Hindi is a very crucial language in India, it helps businessmen in doing business in India. This is one of the main importance of learning Hindi for businesses and companies.",
+                "Hindi is a phonetic language, unlike languages like Hindi. This means that Hindi words are written exactly how they are pronounced. This makes learning Hindi easier. You only have to learn how each letter sounds. Just by learning the Hindi alphabets, you can read and spell any word you come across. This is an advantage as it makes picking up new words easier. It also helps to develop your vocabulary. There are no rules in Hindi like silent letters. So there is a very slim chance of you going wrong with words."
             ]
         },
         {
@@ -82,7 +84,20 @@
             },
             "pageHead" : "Mathenatics",
             "sectionHead" : "About Mathenatics",
-            "para" : "Mathematics is very useful in everyday life. We use math concepts, as well as the skills we learn from practicing math problems every day.\n\n\nMathematics gives us a way to understand patterns, define relationships, and predict the future. It helps us do many important things in our daily lives.\n\nAccording to some people, maths is just the use of complicated formulas and calculations which won’t be ever applied in real life. But, maths is the universal language which is applied in almost every aspect of life. Yes! You read it right; basic mathematical concepts are followed all the time. You would be amazed to see the emerging of maths from unexpected situations.\n\n\nMath is very useful in everyday life. Math can help us do many things that are important in our everyday lives. Here are some daily tasks for which math is important:\n\nManaging time: Keeping a track of time is very important to do all you love to do.\n\nBudgeting: Managing money, understanding discounts, and buying for the best price\n\nSports: Score, Time, Strategizing to win\n\nCooking: Measuring the ingredients to add to a recipe, kitchen inventory planning\n\nExercising and Dieting\n\nDriving: Distance traveled, the shortest route to take to reach a destination\n\nHome Decorating\n\nStitching: Measurements to stitch a dress\n\nCritical Thinking\n\nThe base of other Subjects."
+            "para" : [
+                "Mathematics is very useful in everyday life. We use math concepts, as well as the skills we learn from practicing math problems every day. Mathematics gives us a way to understand patterns, define relationships, and predict the future. It helps us do many important things in our daily lives.",
+                "According to some people, maths is just the use of complicated formulas and calculations which won’t be ever applied in real life. But, maths is the universal language which is applied in almost every aspect of life. Yes! You read it right; basic mathematical concepts are followed all the time. You would be amazed to see the emerging of maths from unexpected situations.\n\n\nMath is very useful in everyday life. Math can help us do many things that are important in our everyday lives.",
+                "Here are some daily tasks for which math is important:",
+                "Managing time  -  Keeping a track of time is very important to do all you love to do.",
+                "Budgeting  -  Managing money, understanding discounts, and buying for the best price.",
+                "Sports  -  Score, Time, Strategizing to win",
+                "Cooking  -  Measuring the ingredients to add to a recipe, kitchen inventory planning",
+                "Driving  -  Distance traveled, the shortest route to take to reach a destination",
+                "Stitching  -  Measurements to stitch a dress",
+                "Home Decorating",
+                "Critical Thinking",
+                "The base of other Subjects."
+            ]
         },
         {
             "id" : 6,
@@ -93,7 +108,14 @@
             },
             "pageHead" : "Drawing",
             "sectionHead" : "About Drawing",
-            "para" : "Children are naturally creative on their own accord. But if their creativity isn’t fostered, they begin to lose it as they grow into adults. Pablo Picasso famously said, “Every child is an artist. The problem is how to remain an artist once we grow up.” \n\nOne of the best ways to encourage a lifelong love of the arts is to enroll your kids in art classes. \n\nOR\n\nOne of the most basic benefits of art classes, particularly for toddlers, is the improvement of fine and gross motor skills. Because there are so many different types of art – from painting to sculpture to drawing – a variety of tools and techniques are required. For many small children, the struggle is real when it comes to using and developing their tiny muscles to hold and use objects correctly. Art classes teach children how to properly hold a paintbrush, pencils or markers and build hand muscles while playing with clay. Older students will benefit by learning proper painting or drawing techniques, and even build muscle when learning to create more physically-demanding forms of art like sculptures."
+            "para" : [
+                "Children are naturally creative on their own accord. But if their creativity isn’t fostered, they begin to lose it as they grow into adults.",
+                "Pablo Picasso famously said,",
+                "“Every child is an artist. The problem is how to remain an artist once we grow up.”",
+                "One of the best ways to encourage a lifelong love of the arts is to enroll your kids in art classes.",
+                "OR",
+                "One of the most basic benefits of art classes, particularly for toddlers, is the improvement of fine and gross motor skills. Because there are so many different types of art – from painting to sculpture to drawing – a variety of tools and techniques are required. For many small children, the struggle is real when it comes to using and developing their tiny muscles to hold and use objects correctly. Art classes teach children how to properly hold a paintbrush, pencils or markers and build hand muscles while playing with clay. Older students will benefit by learning proper painting or drawing techniques, and even build muscle when learning to create more physically-demanding forms of art like sculptures."
+            ]
         },
         {
             "id" : 7,
