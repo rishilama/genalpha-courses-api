@@ -48,7 +48,16 @@
             },
             "pageHead" : "English",
             "sectionHead" : "About English",
-            "para" : "In today’s globalised world there are many reasons to learn a foreign language, and many benefits to studying English specifically.\n\nCurrently, there are around 1.5 billion English speakers around the world, which represents a fifth of the world’s total population. English is spoken in some of the most economically and culturally influential countries globally, and over the centuries has become the main language not only of international communication, but of international business, academia, medicine, science, technology and law.\n\nWhen you consider this, it’s no wonder that so many people select to learn English as a way to enhance their life and the opportunities available to them, as well as exercise their brain!"
+            "para" : [
+                "It is the language of science, aviation, computers, diplomacy and tourism. Last but not least, it is the language of international communication, the media and the internet. Whether it is for professional or personal reasons, understanding the importance of English will help you reach your goals. Here are a few reasons why you should keep learning and practising your English language skills.",
+                "1. English is the Language of International Communication",
+                "2. English gives access to more entertainment and more access to the Internet",
+                "3. English makes it easier to travel",
+                "4. English can make you ‘smarter’",
+                "In today’s globalised world there are many reasons to learn a foreign language, and many benefits to studying English.",
+                "Currently, there are around 1.5 billion English speakers around the world, which represents a fifth of the world’s total population. English is spoken in some of the most economically and culturally influential countries globally, and over the centuries has become the main language not only of international communication, but of international business, academia, medicine, science, technology and law.",
+                "When you consider this, it’s no wonder that so many people select to learn English as a way to enhance their life and the opportunities available to them, as well as exercise their brain!"
+            ]
         },
         {
             "id" : 4,
