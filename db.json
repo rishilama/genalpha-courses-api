@@ -9,7 +9,7 @@
             },
             "pageHead" : "Kindergarten",
             "sectionHead" : "About Kindergarten",
-            "para" : {
+            "para" : [
                 "first":"A kindergarten teacher is responsible for integrating young children into the world of learning by teaching them social skills, personal hygiene, basic reading skills, art and music.",
                 "second":"Letters  -  Identifying letters and writing the alphabet.",
                 "third":"Sounds & Phonics  -  Using letters to make sounds and words.",
@@ -21,7 +21,7 @@
                 "nineth":"Numbers  -  Recognizing numbers and counting.",
                 "tenth":"Simple Math  -  Learning simple math concepts.",
                 "eleventh":"Science  -  Plants, animals, weather, energy, the environment and more."
-            }
+            ]
 
         },
         {
