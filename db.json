@@ -126,7 +126,13 @@
             },
             "pageHead" : "Dance",
             "sectionHead" : "About Dance",
-            "para" : "BOLLYWOOD DANCE\n\nBollywood dancing is a colourful, dynamic and highly theatrical dance style seen in Indian films. It combines classical forms of dance including traditional Indian, folk, salsa, belly-dance while also incorporating more contemporary western forms such as hip hop, jazz and funk.\n\nBollywood dance has been an old favourite for those who want to have a good time as they workout.\n\n\nLearn Bollywood Dance with Expert\n\n\nCLASsicaL DANCE\n\nMost of the classical dance forms originated in temples. Worshipping was the main aim. Although every dance form evolved from different regions, their roots are the same. The roots can be traced from the Sanskrit text – ‘Natya Shastra’. \n\nUnlike folk dances, classical dances are all about technicalities and strict rules. Acharya Nandikeshawara’s ‘Abhinaya Darpan’ and Sharangdev’s ‘Sangeeth Ratnakar’ (Nartanadhyaya), along with the Natya \n\nShastra forms the foundation of technicalities of all the classical dance forms (which includes their body movements, rasa, bhava etc)."
+            "para" : [
+                "Dance burns calories, strengthens muscles, improves balance, increases flexibility, and gives the heart a good workout. Dance has also been proven to increase cognitive development.  Current research documents the importance of exercise on the brain and supports what dancers have always known – the body and mind are connected in vital ways.",
+                "BOLLYWOOD DANCE  -  Bollywood dancing is a colourful, dynamic and highly theatrical dance style seen in Indian films. It combines classical forms of dance including traditional Indian, folk, salsa, belly-dance while also incorporating more contemporary western forms such as hip hop, jazz and funk.","Bollywood dance has been an old favourite for those who want to have a good time as they workout.",
+                "CLASSICAL DANCE  -  Most of the classical dance forms originated in temples. Worshipping was the main aim. Although every dance form evolved from different regions, their roots are the same. The roots can be traced from the Sanskrit text – ‘Natya Shastra’.",
+                "Unlike folk dances, classical dances are all about technicalities and strict rules. Acharya Nandikeshawara’s ‘Abhinaya Darpan’ and Sharangdev’s ‘Sangeeth Ratnakar’ (Nartanadhyaya), along with the Natya.",
+                "Shastra forms the foundation of technicalities of all the classical dance forms (which includes their body movements, rasa, bhava etc)."
+            ]
         }
     ]
 }
