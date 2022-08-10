@@ -11,10 +11,17 @@
             "sectionHead" : "About Kindergarten",
             "para" : [
                 "A kindergarten teacher is responsible for integrating young children into the world of learning by teaching them social skills, personal hygiene, basic reading skills, art and music.",
-                "Letters  -  Identifying letters and writing the alphabet."
-                
+                "Letters  -  Identifying letters and writing the alphabet.",
+                "Sounds & Phonics  -  Using letters to make sounds and words.",
+                "Words / Vocabulary  -  Recognizing sight words and building vocabulary.",
+                "Reading Comprehension  -  Short stories with Q&A and other comprehension exercises.",
+                "Early Writing  -  Sentences, capital letters, punctuation & writing prompts.",
+                "Shapes  -  Identifying and drawing the basic shapes.",
+                "Colors  -  Recognizing basic colors.",
+                "Numbers  -  Recognizing numbers and counting.",
+                "Simple Math  -  Learning simple math concepts.",
+                "Science  -  Plants, animals, weather, energy, the environment and more."
             ]
-
         },
         {
             "id" : 2,
