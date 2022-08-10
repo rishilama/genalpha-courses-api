@@ -9,7 +9,10 @@
             },
             "pageHead" : "Kindergarten",
             "sectionHead" : "About Kindergarten",
-            "para" : "A kindergarten teacher is responsible for integrating young children into the world of learning by teaching them social skills, personal hygiene, basic reading skills, art and music. \n\nLetters\n\nIdentifying letters and writing the alphabet.\n\n\nSounds & Phonics\n\nUsing letters to make sounds and words.\n\n\nWords / Vocabulary\n\nRecognizing sight words and building vocabulary.\n\n\nReading Comprehension\n\nShort stories with Q&A and other comprehension exercises.\n\n\nEarly Writing\n\nSentences, capital letters, punctuation & writing prompts.\n\n\nShapes\n\nIdentifying and drawing the basic shapes.\n\n\nColors\n\nRecognizing basic colors.\n\n\nNumbers\n\nRecognizing numbers and counting.\n\n\nSimple Math\n\nLearning simple math concepts.\n\n\nScience\n\nPlants, animals, weather, energy, the environment and more."
+            "para" : [
+                "A kindergarten teacher is responsible for integrating young children into the world of learning by teaching them social skills, personal hygiene, basic reading skills, art and music.",
+                "Letters\n\nIdentifying letters and writing the alphabet.\n\n\nSounds & Phonics\n\nUsing letters to make sounds and words.\n\n\nWords / Vocabulary\n\nRecognizing sight words and building vocabulary.\n\n\nReading Comprehension\n\nShort stories with Q&A and other comprehension exercises.\n\n\nEarly Writing\n\nSentences, capital letters, punctuation & writing prompts.\n\n\nShapes\n\nIdentifying and drawing the basic shapes.\n\n\nColors\n\nRecognizing basic colors.\n\n\nNumbers\n\nRecognizing numbers and counting.\n\n\nSimple Math\n\nLearning simple math concepts.\n\n\nScience\n\nPlants, animals, weather, energy, the environment and more."
+            ]
         },
         {
             "id" : 2,
