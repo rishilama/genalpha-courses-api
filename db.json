@@ -68,7 +68,10 @@
             },
             "pageHead" : "Hindi",
             "sectionHead" : "About Hindi",
-            "para" : "The Hindi language is spoken by more than 260 million people across the world as a native language. In addition to this, around 120 million people use Hindi as a second language. Due to this vast number of speakers across the world, Hindi is the fourth most spoken language in the world after English, Chinese and Spanish. So, you know if you learn Hindi you will have plenty of people to interact with in different parts of the country and also the world. Besides, Hindi is the most common language spoken across India. This makes it one of the most important languages of South East Asia.\n\nHindi is very prevalent in South-East Asia. Learning a new language has many benefits in all aspects of life. Be it a student, a professional or even a retired person, knowledge of multiple languages always help. It broadens your travel and culture horizons. Well, this is just one advantage. Keep this in mind, you may want to know the importance of learning Hindi. So, without any more time, let us quickly check the importance of learning Hindi."
+            "para" : [
+                "The Hindi language is spoken by more than 260 million people across the world as a native language. In addition to this, around 120 million people use Hindi as a second language. Due to this vast number of speakers across the world, Hindi is the fourth most spoken language in the world after English, Chinese and Spanish. So, you know if you learn Hindi you will have plenty of people to interact with in different parts of the country and also the world. Besides, Hindi is the most common language spoken across India. This makes it one of the most important languages of South East Asia.",
+                "Hindi is very prevalent in South-East Asia. Learning a new language has many benefits in all aspects of life. Be it a student, a professional or even a retired person, knowledge of multiple languages always help. It broadens your travel and culture horizons. Well, this is just one advantage. Keep this in mind, you may want to know the importance of learning Hindi. So, without any more time, let us quickly check the importance of learning Hindi."
+            ]
         },
         {
             "id" : 5,
